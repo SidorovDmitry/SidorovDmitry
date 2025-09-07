@@ -50,9 +50,8 @@
 
 ## 📬 Связаться со мной
 
-- 📧 Email: sid.dmitry@example.com  
-- 💬 Telegram: [@sid_dmitry](https://t.me/sid_dmitry)  
-- 💼 LinkedIn: [Dmitry Sidorov](https://linkedin.com/in/dmitry-sidorov)
+- 📧 Email: kin198669@gmail.com  
+- 💬 Telegram: [@D Si](https://t.me/D Si)  
 
 ---
 
