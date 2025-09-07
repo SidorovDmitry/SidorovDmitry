@@ -4,13 +4,59 @@
 
 <h1 align="center">✨ Дмитрий Сидоров ✨</h1>
 
-<p align="left">
-  <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
-  
-  Привет! 👋 Меня зовут Дмитрий Сидоров. Я увлекаюсь программированием и созданием интересных проектов!
+<p align="center">
+  💻 Python-разработчик | 🧠 Люблю автоматизацию | 🚀 Создаю полезные проекты
 </p>
 
-<div align="left">
+---
+
+## 👋 О себе
+
+<img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+
+Привет! Меня зовут **Дмитрий Сидоров**, и я обожаю программировать.  
+Мой фокус — **веб-разработка на Django**, автоматизация процессов и создание проектов, которые решают реальные задачи.
+
+---
+
+## 🚀 Мои проекты
+
+- 🎯 [Mailing App](https://github.com/SidorovDmitry/Python_Project_5) — Django-приложение для управления email-рассылками.
+- 📊 [Data Dashboard](https://github.com/Dmitry-Sidorov/DataDashboard) — визуализация данных с помощью Plotly и Dash.
+- 🤖 [Telegram Bot](https://github.com/Dmitry-Sidorov/TelegramBot) — бот с интеграцией OpenAI и кастомными командами.
+
+---
+
+## ⚡ Технологии и инструменты
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Статистика GitHub
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitry-Sidorov&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Sidorov&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 📬 Связаться со мной
+
+- 📧 Email: sid.dmitry@example.com  
+- 💬 Telegram: [@sid_dmitry](https://t.me/sid_dmitry)  
+- 💼 LinkedIn: [Dmitry Sidorov](https://linkedin.com/in/dmitry-sidorov)
+
+---
+
+<div align="center">
   <a href="https://github.com/Dmitry-Sidorov?tab=followers">
     <img alt="followers" title="Подписаться на GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Dmitry-Sidorov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
@@ -18,23 +64,3 @@
     <img alt="total stars" title="Звезды на GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Dmitry-Sidorov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-<h2 align="center">⚡ Технологии и инструменты ⚡</h2>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="64" height="64">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="64" height="64">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="128" height="64">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="64" height="64">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="64" height="64">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dmitry-Sidorov&theme=tokyonight">
-</p>
