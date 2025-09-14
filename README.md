@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200767-7ade5b90-4116-49d8-89e6-6e1c7e5c4f6f.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1400" height="500">
 </p>
 
 <h1 align="center">✨ Дмитрий Сидоров ✨</h1>
