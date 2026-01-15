@@ -22,8 +22,9 @@
 ## 🚀 Мои проекты
 
 - 🎯 [Mailing App](https://github.com/SidorovDmitry/Python_Project_5) — Django-приложение для управления email-рассылками.
-- 🤖 [Telegram Bot](https://github.com/Dmitry-Sidorov/TelegramBot) — бот с интеграцией OpenAI и кастомными командами.
-
+- 🤖 [Telegram Bot](https://github.com/SidorovDmitry/Telegram_Dmitriy_Sidorov_Bot) — бот с интеграцией OpenAI и кастомными командами.
+- 🧠 [Jarvis‑Dev Assistant](https://github.com/SidorovDmitry/jarvis-dev-assistant) — Персональный голосовой ассистент для разработчика
+- 🍽️ [Restaurant Booking System](https://github.com/SidorovDmitry/diplom_booking) — Система бронирования столиков в ресторане
 ---
 
 ## ⚡ Технологии и инструменты
