@@ -1,11 +1,16 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1920" height="1080">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</p>
+
+<!-- 👇 СЧЁТЧИК ТУТ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dmitry-Sidorov&style=flat-square&color=blue" alt="Просмотры профиля"/>
 </p>
 
 <h1 align="center">✨ Дмитрий Сидоров ✨</h1>
 
 <p align="center">
-  💻 Python-разработчик | 🧠 GitHab  | 🚀 Django DRF
+  💻 Python-разработчик | 🧠 GitHub  | 🚀 Django DRF
 </p>
 
 ---
@@ -14,7 +19,7 @@
 
 <img align="right" width="128" height="128" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 
-Привет! Меня зовут **Дмитрий Сидоров**, и я люблю создавать что-то новое или совершенствовать уже существующее.  
+Привет! Меня зовут Дмитрий Сидоров, и я увлечён веб-разработкой на Python. Мне нравится проектировать гибкие backend-системы — от умных Telegram-ботов с AI до полноценных сервисов бронирования. В свободное время экспериментирую с голосовыми ассистентами и автоматизацией рутины. 
 
 
 ---
@@ -50,8 +55,14 @@
 
 ## 📬 Связаться со мной
 
-- 📧 Email: kin198669@gmail.com  
-- 💬 Telegram: https://t.me/kin19861
+<p align="center">
+  <a href="mailto:kin198669@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/kin19861">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
